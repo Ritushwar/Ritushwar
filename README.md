@@ -1,12 +1,12 @@
-<h2>Hey <a href="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"></a>My Name is Ritushwar Neupane</h2>
+<h2>Hey!👋 <a href="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif"></a>My Name is Ritushwar Neupane</h2>
   <h2>ML and AI Enthusiast</h2>
   <p>I am 20 years old and I've been self learning to code for 1 year. I am currently studying Engineering.</p>
   <ul>
-    <li>I am from Nepal a beautiful landLock Country</li>
-    <li>You can contact me at <a href ="">ritushwarneupane111@gmail.com</a></li>
-    <li>I am currently exploring ML and AI</li>
-    <li>I'm open to collaborating on Interesting Projects Ideas</li>
-<li>I Love to Travel</li>
+    <li>😄I am from Nepal a beautiful landLock Country</li>
+    <li>📫You can contact me at <a href ="">ritushwarneupane111@gmail.com</a></li>
+    <li>🌱I am currently exploring Machine Learning and Artifical Intelligence</li>
+    <li>👯I'm open to collaborating on Interesting Projects Ideas</li>
+    <li>⚡I Love to Travel</li>
   </ul>
   <h2>Skills</h2>
   <div class="inline-images">
