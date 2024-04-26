@@ -3,7 +3,7 @@
 # ML and AI Enthusiast
 <p>I am 20 years old and I've been self learning to code for 1 year. I am currently studying Engineering.</p>
 <ul>
-  <li>🌍<p>I am from Nepal a beautiful landLock Country</p></li>
+  <li>I am from Nepal a beautiful landLock Country</li>
 </ul>
 
 -✉️ You can contact me at <a href ="ritushwarneupane111@gmail.com">ritushwarneupane111@gmail.com</a>
